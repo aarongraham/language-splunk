@@ -1,7 +1,7 @@
 {
   "name": "language-splunk",
   "version": "0.1.0",
-  "description": "Atom language support for Splunk",
+  "description": "Atom language support for Splunk Search Processing Language",
   "repository": "https://github.com/aarongraham/language-splunk",
   "license": "MIT",
   "engines": {
